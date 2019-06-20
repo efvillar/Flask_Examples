@@ -1,2 +1,2 @@
 # Flask_Examples
-Some examples of Flask
+Este repositorio se compone de varios archivos que ejemplifican el uso de Flask
